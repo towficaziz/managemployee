@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "firstname": "t",
+      "lastname": "a",
+      "birthdate": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "salary": "3",
+      "id": 1
+    },
+    {
+      "firstname": "",
+      "lastname": "",
+      "birthdate": "",
+      "gender": "",
+      "company": "",
+      "jobExperience": "",
+      "salary": "3",
+      "profile": "prof-01.jpg",
+      "id": 2
+    },
+    {
+      "firstname": "Md Towfic",
+      "lastname": "Aziz",
+      "birthdate": "2022-07-01",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "Microsift",
+      "jobExperience": 7,
+      "salary": 66000,
+      "profile": "prof-01.jpg",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
